@@ -15,7 +15,7 @@ Meu nome é Otavio Henrique, tenho 17 anos, fazendo o terceiro ano do ensino mé
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src=["https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" ](https://www.flaticon.com/br/icone-gratis/java_5968282)
 />
 <img 
     align="left" 
