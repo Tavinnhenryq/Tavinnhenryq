@@ -21,32 +21,4 @@
 </p>
 > Ajuste os badges acima se usar outras ferramentas (VS Code, Eclipse, Spring, Maven/Gradle etc.)
 ---
-📊 Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tavinnhenryq&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tavinnhenryq&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" height="165"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavinnhenryq&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas" height="165"/>
-</p>
----
-📌 Repositórios em destaque
-<p align="left">
-  <a href="https://github.com/Tavinnhenryq/Tavinnhenryq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tavinnhenryq&repo=Tavinnhenryq&theme=tokyonight&hide_border=true" alt="Repositório em destaque" />
-  </a>
-</p>
-> Troque `repo=Tavinnhenryq` pelo nome de um projeto Java que queira destacar aqui. Você pode adicionar até 6 cards assim.
----
-📫 Contato
-<p align="left">
-  <a href="mailto:oh405946@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-> Substitua o link do LinkedIn pelo seu, ou remova o badge se não quiser divulgar.
----
-<p align="center"><i>Aberto a oportunidades de estágio e primeiros projetos em Java 🚀</i></p>
+
