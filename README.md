@@ -19,6 +19,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
-> Ajuste os badges acima se usar outras ferramentas (VS Code, Eclipse, Spring, Maven/Gradle etc.)
+
 ---
 
