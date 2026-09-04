@@ -5,8 +5,8 @@
 </p>
 ---
  Sobre mim
- Cursando Desenvolvimento de Sistemas no SENAI
- Foco em desenvolvimento back-end com Java
+ Cursando Desenvolvimento de Sistemas no SENAI,
+ Foco em desenvolvimento back-end com Java,
  Gosto de tecnologia, matemática, física e tudo que envolve cálculo
  Buscando minha primeira experiência na área de TI
  Pergunte-me sobre Java, lógica de programação e estruturas de dados
